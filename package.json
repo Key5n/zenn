@@ -4,7 +4,8 @@
   "description": "Articles for zenn",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "view": "npx zenn preview",
+    "new": "npx zenn new:article"
   },
   "repository": {
     "type": "git",
