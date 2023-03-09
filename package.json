@@ -4,7 +4,7 @@
   "description": "Articles for zenn",
   "main": "index.js",
   "scripts": {
-    "view": "npx zenn preview",
+    "start": "npx zenn preview",
     "new": "npx zenn new:article"
   },
   "repository": {
